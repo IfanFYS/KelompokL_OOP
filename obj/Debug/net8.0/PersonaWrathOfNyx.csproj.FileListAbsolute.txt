@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\DAFFA_Jefferson\Documents\PersonaWrathOfNyx\bin\Debug\net8.0\PersonaWrathOfNyx.exe
 C:\Users\DAFFA_Jefferson\Documents\PersonaWrathOfNyx\bin\Debug\net8.0\PersonaWrathOfNyx.deps.json
 C:\Users\DAFFA_Jefferson\Documents\PersonaWrathOfNyx\bin\Debug\net8.0\PersonaWrathOfNyx.runtimeconfig.json
@@ -28,3 +29,19 @@ C:\Users\fatha\OneDrive\Documents\Tugas Kuliah\OOP\Rancangan Game Design OOP\Kel
 C:\Users\fatha\OneDrive\Documents\Tugas Kuliah\OOP\Rancangan Game Design OOP\KelompokL_OOP\obj\Debug\net8.0\PersonaWrathOfNyx.pdb
 C:\Users\fatha\OneDrive\Documents\Tugas Kuliah\OOP\Rancangan Game Design OOP\KelompokL_OOP\obj\Debug\net8.0\PersonaWrathOfNyx.genruntimeconfig.cache
 C:\Users\fatha\OneDrive\Documents\Tugas Kuliah\OOP\Rancangan Game Design OOP\KelompokL_OOP\obj\Debug\net8.0\ref\PersonaWrathOfNyx.dll
+=======
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\bin\Debug\net8.0\PersonaWrathOfNyx.exe
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\bin\Debug\net8.0\PersonaWrathOfNyx.deps.json
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\bin\Debug\net8.0\PersonaWrathOfNyx.runtimeconfig.json
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\bin\Debug\net8.0\PersonaWrathOfNyx.dll
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\bin\Debug\net8.0\PersonaWrathOfNyx.pdb
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\obj\Debug\net8.0\PersonaWrathOfNyx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\obj\Debug\net8.0\PersonaWrathOfNyx.AssemblyInfoInputs.cache
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\obj\Debug\net8.0\PersonaWrathOfNyx.AssemblyInfo.cs
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\obj\Debug\net8.0\PersonaWrathOfNyx.csproj.CoreCompileInputs.cache
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\obj\Debug\net8.0\PersonaWrathOfNyx.dll
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\obj\Debug\net8.0\refint\PersonaWrathOfNyx.dll
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\obj\Debug\net8.0\PersonaWrathOfNyx.pdb
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\obj\Debug\net8.0\PersonaWrathOfNyx.genruntimeconfig.cache
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\obj\Debug\net8.0\ref\PersonaWrathOfNyx.dll
+>>>>>>> 1c677b9f9956dc692dca728d13a6b9ec3b98bf8a

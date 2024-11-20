@@ -4,5 +4,12 @@
   "success": true,
   "projectFilePath": "C:\\Users\\fatha\\OneDrive\\Documents\\Tugas Kuliah\\OOP\\Rancangan Game Design OOP\\KelompokL_OOP\\PersonaWrathOfNyx.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\fatha\\OneDrive\\Documents\\Tugas Kuliah\\OOP\\Rancangan Game Design OOP\\KelompokL_OOP\\obj\\project.nuget.cache : Unexpected character encountered while parsing value: <. Path '', line 0, position 0."
+    }
+  ]
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PersonaWrathOfNyx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66780c0245d9d9bc42edea043c2c06d766233a5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61d83caeca0c0725aacd8dc9a447a7d4087ffc6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PersonaWrathOfNyx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PersonaWrathOfNyx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

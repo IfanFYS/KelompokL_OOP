@@ -1,0 +1,14 @@
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\bin\Release\net8.0\PersonaWrathOfNyx.exe
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\bin\Release\net8.0\PersonaWrathOfNyx.deps.json
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\bin\Release\net8.0\PersonaWrathOfNyx.runtimeconfig.json
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\bin\Release\net8.0\PersonaWrathOfNyx.dll
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\bin\Release\net8.0\PersonaWrathOfNyx.pdb
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\obj\Release\net8.0\PersonaWrathOfNyx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\obj\Release\net8.0\PersonaWrathOfNyx.AssemblyInfoInputs.cache
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\obj\Release\net8.0\PersonaWrathOfNyx.AssemblyInfo.cs
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\obj\Release\net8.0\PersonaWrathOfNyx.csproj.CoreCompileInputs.cache
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\obj\Release\net8.0\PersonaWrathOfNyx.dll
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\obj\Release\net8.0\refint\PersonaWrathOfNyx.dll
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\obj\Release\net8.0\PersonaWrathOfNyx.pdb
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\obj\Release\net8.0\PersonaWrathOfNyx.genruntimeconfig.cache
+C:\Users\DAFFA_Jefferson\Downloads\ProgressKelompokL\obj\Release\net8.0\ref\PersonaWrathOfNyx.dll
