@@ -34,9 +34,7 @@ Here is a summary of the mechanics in our project:
 | [**@Alexander Christhian**](https://github.com/BantalEmak)| `Algoritma Program`, `Progress Report`, `Laporan laTeX` |
 | [**@Daffa Sayra Firdaus**](https://github.com/DAFFAsd)| `Algoritma Program` `Fitur Utama & Tambahan` `Progress Report` |
 
-## **💾 Link Repository 💾**
-- `https://github.com/IfanFYS/KelompokL_OOP/tree/main`
-
-## **▶️ Link Video ▶️**
-
-- `https://youtu.be/BeUGBibYhL4`
+## **🔗 Important Links 🔗**
+Berikut adalah dafatr link penting terkait proyek ini:
+- [***`GitHub Repository`***](https://github.com/IfanFYS/KelompokL_OOP/tree/main)
+- [***`Video Penjelasan`***](https://youtu.be/BeUGBibYhL4)
