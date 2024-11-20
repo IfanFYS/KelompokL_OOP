@@ -1,15 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Mr1AXLuZZvI=",
+  "dgSpecHash": "QAVTXQwiUGU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fatha\\OneDrive\\Documents\\Tugas Kuliah\\OOP\\Rancangan Game Design OOP\\KelompokL_OOP\\PersonaWrathOfNyx.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\fatha\\OneDrive\\Documents\\Tugas Kuliah\\OOP\\Rancangan Game Design OOP\\KelompokL_OOP\\obj\\project.nuget.cache : Unexpected character encountered while parsing value: <. Path '', line 0, position 0."
-    }
-  ]
+  "projectFilePath": "C:\\Users\\vinen\\Documents\\File Semester\\Semester 3\\OOP\\Kuliah-OOP\\Persona-KIBUL\\KelompokL_OOP\\PersonaWrathOfNyx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinen\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\vinen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\vinen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\vinen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
 }

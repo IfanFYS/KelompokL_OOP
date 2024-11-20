@@ -39,4 +39,4 @@ Here is a summary of the mechanics in our project:
 
 ## **▶️ Link Video ▶️**
 
-- `<sex>`
+- `https://youtu.be/BeUGBibYhL4`

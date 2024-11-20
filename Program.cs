@@ -230,7 +230,7 @@ private void InitializeLevel(string levelName)
                     Summons = new List<Summon> { new Summon("Orpheus", "Musician", 70, 18, 10) }
                 }
             },
-            LevelBoss = new Boss("Projection of Thanatos", "The Fake Death", 50, 30, 15)
+            LevelBoss = new Boss("Projection of Thanatos", "The Fake Death", 20, 30, 15)
         },
         new Location($"{levelName} - Cavern")
         {
