@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DAFFA_Jefferson\\documents\\PersonaWrathOfNyx\\PersonaWrathOfNyx.csproj",
+      "projectUniqueName": "C:\\Users\\DAFFA_Jefferson\\Downloads\\ProgressKelompokL\\PersonaWrathOfNyx.csproj",
       "projectName": "PersonaWrathOfNyx",
-      "projectPath": "C:\\Users\\DAFFA_Jefferson\\documents\\PersonaWrathOfNyx\\PersonaWrathOfNyx.csproj",
+      "projectPath": "C:\\Users\\DAFFA_Jefferson\\Downloads\\ProgressKelompokL\\PersonaWrathOfNyx.csproj",
       "packagesPath": "C:\\Users\\DAFFA_Jefferson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DAFFA_Jefferson\\documents\\PersonaWrathOfNyx\\obj\\",
+      "outputPath": "C:\\Users\\DAFFA_Jefferson\\Downloads\\ProgressKelompokL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DAFFA_Jefferson\\AppData\\Roaming\\NuGet\\NuGet.Config"
