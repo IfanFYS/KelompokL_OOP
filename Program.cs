@@ -198,15 +198,15 @@ public class PointOfInterest
         {
             merchantInventory = new List<Item>
             {
-                new Item("Iron Sword", "Weapon", 100, 5),
-                new Item("Steel Sword", "Weapon", 250, 10),
-                new Item("Dark Blade", "Weapon", 500, 15),
-                new Item("Leather Armor", "Armor", 150, 5),
-                new Item("Chain Mail", "Armor", 300, 10),
-                new Item("Shadow Plate", "Armor", 600, 15),
-                new Item("Health Potion", "Consumable", 50, 30),
-                new Item("Greater Health Potion", "Consumable", 100, 60),
-                new Item("Max Health Potion", "Consumable", 200, 100)
+                new Item("Iron Sword", "Weapon", 20, 10),
+                new Item("Steel Sword", "Weapon", 40, 20),
+                new Item("Dark Blade", "Weapon", 80, 50),
+                new Item("Leather Armor", "Armor", 20, 5),
+                new Item("Chain Mail", "Armor", 40, 10),
+                new Item("Shadow Plate", "Armor", 80, 15),
+                new Item("Health Potion", "Consumable", 5, 30),
+                new Item("Greater Health Potion", "Consumable", 10, 60),
+                new Item("Max Health Potion", "Consumable", 20, 100)
             };
         }
 private void InitializeLevel(string levelName)
@@ -230,7 +230,7 @@ private void InitializeLevel(string levelName)
                     Summons = new List<Summon> { new Summon("Orpheus", "Musician", 70, 18, 10) }
                 }
             },
-            LevelBoss = new Boss("Projection of Thanatos", "The Fake Death", 200, 30, 20)
+            LevelBoss = new Boss("Projection of Thanatos", "The Fake Death", 50, 30, 15)
         },
         new Location($"{levelName} - Cavern")
         {
@@ -247,10 +247,10 @@ private void InitializeLevel(string levelName)
                 },
                 new PointOfInterest("Abandoned Camp", "Remains of an old adventurer's campsite.")
                 {
-                    Items = new List<Item> { new Item("Iron Sword", "Weapon", 100, 5), }
+                    Items = new List<Item> { new Item("Great Sword", "Weapon", 100, 30), }
                 }
             },
-            LevelBoss = new Boss("Stone Guardian", "The Keeper of the Cavern", 250, 35, 18)
+            LevelBoss = new Boss("Stone Guardian", "The Keeper of the Cavern", 100, 35, 18)
         },
         new Location($"{levelName} - Fortress")
         {
@@ -269,7 +269,7 @@ private void InitializeLevel(string levelName)
                     Summons = new List<Summon> { new Summon("Wraith", "Spirit", 60, 16, 12) }
                 }
             },
-            LevelBoss = new Boss("Dark Commander", "Leader of the Shadow Army", 300, 40, 25)
+            LevelBoss = new Boss("Dark Commander", "Leader of the Shadow Army", 150, 40, 25)
         },
         new Location($"{levelName} - Abyss")
         {
@@ -289,7 +289,7 @@ private void InitializeLevel(string levelName)
                     Enemies = new List<Character> { new Character("Void Sentinel", 100, 25, 20) }
                 }
             },
-            LevelBoss = new Boss("Avatar of the Void", "Harbinger of Despair", 400, 50, 30)
+            LevelBoss = new Boss("Avatar of the Void", "Harbinger of Despair", 200, 50, 30)
         }
     };
     currentLocationIndex = 0;
@@ -762,6 +762,7 @@ private void ExplorePointOfInterest(PointOfInterest point)
 
 private void InitiateBossFight(Boss boss)
 {
+    int tempHP = boss.HP;
     Console.WriteLine($"\n=== BOSS BATTLE ===");
     Console.WriteLine($"Challenging {boss.Name}, {boss.Title}!");
     Console.WriteLine(@"
@@ -840,6 +841,7 @@ private void InitiateBossFight(Boss boss)
         Console.WriteLine(@"
         💀 DEFEATED BY BOSS
         ");
+        boss.HP = tempHP;
         HandlePlayerDeath();
     }
 }
@@ -952,6 +954,7 @@ private void UseItemInBattle()
                 if(player.Chance == 1){
                     Console.WriteLine($"And You have reclaimed your Essence");
                     Console.WriteLine($"Don't let them take it away again.");
+                    player.Chance = 0;
                 }
             }
             else
