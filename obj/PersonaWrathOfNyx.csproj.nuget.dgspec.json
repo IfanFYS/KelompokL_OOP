@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DAFFA_Jefferson\\Documents\\PersonaWrathOfNyx\\PersonaWrathOfNyx.csproj": {}
+    "C:\\Users\\fatha\\OneDrive\\Documents\\Tugas Kuliah\\OOP\\Rancangan Game Design OOP\\KelompokL_OOP\\PersonaWrathOfNyx.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DAFFA_Jefferson\\Documents\\PersonaWrathOfNyx\\PersonaWrathOfNyx.csproj": {
+    "C:\\Users\\fatha\\OneDrive\\Documents\\Tugas Kuliah\\OOP\\Rancangan Game Design OOP\\KelompokL_OOP\\PersonaWrathOfNyx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DAFFA_Jefferson\\Documents\\PersonaWrathOfNyx\\PersonaWrathOfNyx.csproj",
+        "projectUniqueName": "C:\\Users\\fatha\\OneDrive\\Documents\\Tugas Kuliah\\OOP\\Rancangan Game Design OOP\\KelompokL_OOP\\PersonaWrathOfNyx.csproj",
         "projectName": "PersonaWrathOfNyx",
-        "projectPath": "C:\\Users\\DAFFA_Jefferson\\Documents\\PersonaWrathOfNyx\\PersonaWrathOfNyx.csproj",
-        "packagesPath": "C:\\Users\\DAFFA_Jefferson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DAFFA_Jefferson\\Documents\\PersonaWrathOfNyx\\obj\\",
+        "projectPath": "C:\\Users\\fatha\\OneDrive\\Documents\\Tugas Kuliah\\OOP\\Rancangan Game Design OOP\\KelompokL_OOP\\PersonaWrathOfNyx.csproj",
+        "packagesPath": "C:\\Users\\fatha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fatha\\OneDrive\\Documents\\Tugas Kuliah\\OOP\\Rancangan Game Design OOP\\KelompokL_OOP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DAFFA_Jefferson\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\fatha\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
