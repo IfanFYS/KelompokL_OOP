@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinen\\Documents\\File Semester\\Semester 3\\OOP\\Kuliah-OOP\\Persona-KIBUL\\KelompokL_OOP\\PersonaWrathOfNyx.csproj": {}
+    "C:\\Uwiw Gaming\\Object-Oriented Programming\\KelompokL_OOP\\PersonaWrathOfNyx.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinen\\Documents\\File Semester\\Semester 3\\OOP\\Kuliah-OOP\\Persona-KIBUL\\KelompokL_OOP\\PersonaWrathOfNyx.csproj": {
+    "C:\\Uwiw Gaming\\Object-Oriented Programming\\KelompokL_OOP\\PersonaWrathOfNyx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinen\\Documents\\File Semester\\Semester 3\\OOP\\Kuliah-OOP\\Persona-KIBUL\\KelompokL_OOP\\PersonaWrathOfNyx.csproj",
+        "projectUniqueName": "C:\\Uwiw Gaming\\Object-Oriented Programming\\KelompokL_OOP\\PersonaWrathOfNyx.csproj",
         "projectName": "PersonaWrathOfNyx",
-        "projectPath": "C:\\Users\\vinen\\Documents\\File Semester\\Semester 3\\OOP\\Kuliah-OOP\\Persona-KIBUL\\KelompokL_OOP\\PersonaWrathOfNyx.csproj",
-        "packagesPath": "C:\\Users\\vinen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinen\\Documents\\File Semester\\Semester 3\\OOP\\Kuliah-OOP\\Persona-KIBUL\\KelompokL_OOP\\obj\\",
+        "projectPath": "C:\\Uwiw Gaming\\Object-Oriented Programming\\KelompokL_OOP\\PersonaWrathOfNyx.csproj",
+        "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
+        "outputPath": "C:\\Uwiw Gaming\\Object-Oriented Programming\\KelompokL_OOP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vinen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -36,9 +36,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -54,30 +53,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
